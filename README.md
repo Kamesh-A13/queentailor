@@ -45,6 +45,7 @@ Go into the directory
 
 2.   cd queentailor
 
+---
 
 Open the website
 3.  Open index.html in your browser (no server required).
@@ -54,5 +55,6 @@ Open the website
 🌍 Live Demo
 
 [newqueentailor.netlify.app](https://newqueentailor.netlify.app/)
+
 
 
