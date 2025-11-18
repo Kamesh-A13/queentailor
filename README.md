@@ -53,6 +53,6 @@ Open the website
 
 🌍 Live Demo
 
-newqueentailor.netlify.app
+[newqueentailor.netlify.app](https://newqueentailor.netlify.app/)
 
 
