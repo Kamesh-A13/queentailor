@@ -34,8 +34,6 @@ I built this project for my father’s tailoring business to help him bring his 
 ---
 
 
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -51,7 +49,10 @@ Go into the directory
 Open the website
 3.  Open index.html in your browser (no server required).
 
+---
+
 🌍 Live Demo
 
-[View the site on Netlify](newqueentailor.netlify.app)
+newqueentailor.netlify.app
+
 
